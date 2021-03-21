@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613949959 source:c:\users\willn\documents\c\0026 - depuração - if\0026.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

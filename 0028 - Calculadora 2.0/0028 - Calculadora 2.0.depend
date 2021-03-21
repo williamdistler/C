@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613951952 source:c:\users\willn\documents\c\0028 - calculadora 2.0\0028.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
